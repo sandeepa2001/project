@@ -5,6 +5,7 @@ function heelo() {
     <div>
         <div>heelo</div>
         <div>bye bye</div>
+        <table></table>
     </div>
   )
 }
