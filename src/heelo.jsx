@@ -2,7 +2,10 @@ import React from 'react'
 
 function heelo() {
   return (
-    <div>heelo</div>
+    <div>
+        <div>heelo</div>
+        <div>bye bye</div>
+    </div>
   )
 }
 
